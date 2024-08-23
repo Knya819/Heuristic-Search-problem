@@ -102,5 +102,5 @@ The optimal path for our maze is:
 
 ## Additional Work
 
-In individual work, other heuristic functions were implemented, and additional algorithms such as Constraint Propagation, Rule-Based, Dijkstra, and Reinforcement Learning were explored to derive the optimal path for the given maze. A 2D representation was also created for visualization.
+Other heuristic functions were implemented, and additional algorithms such as Constraint Propagation, Rule-Based, Dijkstra, and Reinforcement Learning were explored to derive the optimal path for the given maze. A 2D representation was also created for visualization.
 
